@@ -1,1 +1,1 @@
-# Seat-Allocation
+Project_Gale_Shapley_Algo Implementation of Gale-Shapley Algorithm (Stable match making Algorithm ) on student-university matching problem in C++ Gale Shapley Algorithm : This algorithm is used in solving stable match-making problem, it is also called as Deferred Acceptance Algorithm. To explain the problem and algorithm, we implemented the algorithm in making stable matched pairs of University and Student.
